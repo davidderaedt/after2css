@@ -1,0 +1,32 @@
+#square{
+	position:absolute;
+	left:32px;
+	top:32px;
+	width:128px;
+	height:128px;
+}
+
+#circle{
+	position:absolute;
+	left:32px;
+	top:192px;
+	width:128px;
+	height:128px;
+}
+
+#triangle{
+	position:absolute;
+	left:32px;
+	top:352px;
+	width:128px;
+	height:128px;
+}
+
+#poly{
+	position:absolute;
+	left:32px;
+	top:512px;
+	width:128px;
+	height:128px;
+}
+
